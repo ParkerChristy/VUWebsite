@@ -1,0 +1,605 @@
+.w-u-homepage-w-u-homepage {
+    width: 100%;
+    height: 2402px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .w-u-homepage-text {
+    top: 307px;
+    left: 114px;
+    color: rgba(0, 0, 0, 1);
+    width: 389px;
+    height: auto;
+    position: absolute;
+    font-size: 55px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 500;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-about-projects {
+    top: 394px;
+    left: 107px;
+    width: 1288px;
+    height: 502.6978759765625px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(244, 244, 244, 1);
+  }
+  .w-u-homepage-text02 {
+    top: 312.5685729980469px;
+    left: 471.8553466796875px;
+    color: rgba(0, 0, 0, 1);
+    width: 284px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text04 {
+    top: 8.240948677062988px;
+    left: 471.6629943847656px;
+    color: rgba(0, 0, 0, 1);
+    width: 829px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text05 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .w-u-homepage-text09 {
+    color: rgba(123, 123, 123, 1);
+  }
+  .w-u-homepage-alvinsprofile-i-m-g {
+    top: 2.7469828128814697px;
+    left: 0px;
+    width: 431px;
+    height: 500px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-text17 {
+    top: 363.3360900878906px;
+    left: 471.8553466796875px;
+    color: rgba(123, 123, 123, 1);
+    width: 315px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-team {
+    top: 968px;
+    left: 107px;
+    width: 1289px;
+    height: 535.5474243164062px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(244, 244, 244, 1);
+  }
+  .w-u-homepage-avatar1 {
+    top: 32px;
+    left: 12px;
+    width: 292px;
+    height: 317px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-avatar2 {
+    top: 32px;
+    left: 323px;
+    width: 291px;
+    height: 317px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-avatar3 {
+    top: 32px;
+    left: 634px;
+    width: 291px;
+    height: 317px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-avatar4 {
+    top: 32px;
+    left: 944px;
+    width: 292px;
+    height: 317px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-text19 {
+    top: 343px;
+    left: 65px;
+    color: rgba(0, 0, 0, 1);
+    width: 203px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text24 {
+    top: 343px;
+    left: 380px;
+    color: rgba(0, 0, 0, 1);
+    width: 203px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text29 {
+    top: 343px;
+    left: 695px;
+    color: rgba(0, 0, 0, 1);
+    width: 203px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text34 {
+    top: 343px;
+    left: 1002px;
+    color: rgba(0, 0, 0, 1);
+    width: 202px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text39 {
+    top: 382px;
+    left: 121.2138671875px;
+    color: rgba(189, 155, 83, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text41 {
+    top: 382px;
+    left: 436.2138671875px;
+    color: rgba(189, 155, 83, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text43 {
+    top: 382px;
+    left: 750.2138671875px;
+    color: rgba(189, 155, 83, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text45 {
+    top: 382px;
+    left: 1058.2138671875px;
+    color: rgba(189, 155, 83, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-carouselnavigationright {
+    top: 471px;
+    left: 627.2138671875px;
+    width: 40px;
+    height: 46px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-carouselnavigationleft {
+    top: 517px;
+    left: 617.2138671875px;
+    width: 40px;
+    height: 46px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-resources {
+    top: 1575px;
+    left: 110px;
+    width: 1289px;
+    height: 565.4107055664062px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(244, 244, 244, 1);
+  }
+  .w-u-homepage-text47 {
+    top: 242px;
+    left: 105px;
+    color: rgba(0, 0, 0, 1);
+    width: 287px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text49 {
+    top: 293px;
+    left: 72px;
+    color: rgba(123, 123, 123, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 600;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-quantitative-nurse-i-m-g {
+    top: 0px;
+    left: 448px;
+    width: 841px;
+    height: 568px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-v-u-s-n-header {
+    top: 61.71736526489258px;
+    left: 0px;
+    width: 1488px;
+    height: 219.99253845214844px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .w-u-homepage-breadcrumbscontainer {
+    top: 150.3116455078125px;
+    left: 0px;
+    width: 1488px;
+    height: 70px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-text51 {
+    top: 150.3116455078125px;
+    left: 186px;
+    color: rgba(123, 123, 123, 1);
+    width: 920px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Outfit;
+    font-weight: 400;
+    line-height: 66px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-v-u-s-n-header1 {
+    top: 1.9908827543258667px;
+    left: 0px;
+    width: 1488px;
+    height: 150px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-links {
+    top: 2212px;
+    left: 119px;
+    width: 1289px;
+    height: 162.25694274902344px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(244, 244, 244, 1);
+  }
+  .w-u-homepage-text53 {
+    top: 12.9407377243042px;
+    left: 21.69999885559082px;
+    color: rgba(0, 0, 0, 1);
+    width: 179px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text55 {
+    top: 12.9407377243042px;
+    left: 239.73333740234375px;
+    color: rgba(0, 0, 0, 1);
+    width: 114px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text64 {
+    top: 49.77206802368164px;
+    left: 239.73333740234375px;
+    color: rgba(0, 0, 0, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text66 {
+    top: 81.62619018554688px;
+    left: 239.73333740234375px;
+    color: rgba(0, 0, 0, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text68 {
+    top: 113.48031616210938px;
+    left: 239.73333740234375px;
+    color: rgba(0, 0, 0, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text70 {
+    top: 18.91338539123535px;
+    left: 433.9999694824219px;
+    color: rgba(0, 0, 0, 1);
+    width: 303px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-text72 {
+    top: 80.63075256347656px;
+    left: 433.9999694824219px;
+    color: rgba(0, 0, 0, 1);
+    width: 77px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .w-u-homepage-textboxemail {
+    top: 48.77662658691406px;
+    left: 433.9999694824219px;
+    width: 201px;
+    height: 23px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .w-u-homepage-text74 {
+    top: 49.77206802368164px;
+    left: 438.13330078125px;
+    color: rgba(123, 123, 123, 1);
+    width: 169px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
